@@ -5,7 +5,7 @@ if (index <= 16) {
     console.log ("Very severely underweight");
 } else if (index > 16 && index < 18.5) {
     console.log ("Severely underweight");
-} else if (index > 15.5 && index <= 25) {
+} else if (index > 18.5 && index <= 25) {
     console.log ("Normal (healthy weight)");
 } else if (index > 25 && index <= 30) {
     console.log ("Overweight");
